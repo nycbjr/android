@@ -1,2 +1,2 @@
-Galaxy Tab 8.9 (P5)
+Galaxy Tab (P5)
 Getting Started
