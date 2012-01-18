@@ -1,2 +1,2 @@
-Galaxy Tab (P5)
+Galaxy Tab (P1)
 Getting Started
