@@ -11,7 +11,7 @@
            remote="aosp"
            sync-j="4" />
 
-  <project path="build" name="Galaxian-Soup/android_build" remote="github" revision="ics" >
+  <project path="build" name="nycbjr/android_build" remote="github" revision="ics" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <project path="abi/cpp" name="platform/abi/cpp" />
@@ -243,7 +243,7 @@
   <project path="sdk" name="platform/sdk" />
   <project path="system/bluetooth" name="platform/system/bluetooth" />
   <project path="system/core" name="platform/system/core" />
-  <project path="system/extras" name="Galaxian-Soup/android_system_extras" remote="github" revision="ics" />
+  <project path="system/extras" name="nycbjr/android_system_extras" remote="github" revision="ics" />
   <project path="system/media" name="platform/system/media" />
   <project path="system/netd" name="platform/system/netd" />
   <project path="system/vold" name="platform/system/vold" />
